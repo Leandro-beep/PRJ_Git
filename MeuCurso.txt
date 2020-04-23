@@ -1,0 +1,3 @@
+Curso: Sistema de informação
+sala: 728
+Disciplina: DeVops
